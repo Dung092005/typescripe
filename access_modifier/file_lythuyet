@@ -1,0 +1,6 @@
+
+->ở kiểu public thì in được cả ngoài lẫn trong class, và cả con của class parent nữ
+->ở kiểu private thì không thể gọi từ bên ngoài class, hay ở class con, chi có thể gọi gián tiếp qua 1 hàm public trong class
+và hàmpublic này có thể gọi bên ngoài 
+-> kiểu protect thì chạy đc bên trong và trong class con nhưng không chạy được bên ngoài( trong lội bộ gia đình) 
+
